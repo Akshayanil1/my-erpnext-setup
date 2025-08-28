@@ -1,0 +1,4 @@
+- **CRITICAL LESSON:** Encountered an 'Insufficient Stock' error.
+- Learned that stock items must exist in a warehouse before they can be delivered.
+- Learned how to add inventory using a 'Stock Entry' of type 'Material Receipt'.
+- Successfully added 10 Laptops to the 'Stores - MFCD' warehouse.
